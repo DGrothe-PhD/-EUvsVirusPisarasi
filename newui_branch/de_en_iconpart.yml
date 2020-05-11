@@ -1,0 +1,19 @@
+# YML input
+de:
+  briefcase: 'Arbeit/Bildung'
+  clinic: Medizinisch
+  film: Kino
+  truck: Lieferdienst
+  #bus: ÖPNV
+  #suitcase: Reisen
+  #sport: Sport
+  utensils: Restaurant
+en:
+  briefcase: 'Workplace/Education'
+  clinic: 'Healthcare/Medical'
+  film: Cinema
+  truck: Delivery
+  #bus: Public Transport
+  #suitcase: Travelling
+  #sport: Sports
+  utensils: Restaurant

@@ -1,0 +1,93 @@
+en:
+  privacy_policy: Privacy policy
+  tos: Terms of service
+  home: Home
+  diary: Diary
+  places: Places
+  about: About
+  faq: QA
+  profile: Profile
+  logout: Log out
+  current_lang: Language selection
+
+  add_manual_entry: Add manually
+  description_placeholder: Where have you been?
+  description_title: Enter description for the log entry
+  time_title: Log entry time
+  all_day: All day
+  all_day_title: Is entry all day
+  day_title: Select date
+  num_people: '# of people'
+  contacts_title: Select how many people shared the space with you for this log entry
+  add: Add
+  add_title: Add entry
+  use_gmaps: Use Google Timeline data
+  download_gmaps: Download from<br />Google Timeline
+  daysago:
+    zero: Today
+    one: 1 day ago
+    other: '%{count} days ago'
+  upload_data: Upload<br />location data
+  draghere: Drag here or click to select
+  send: Send
+  log: Diary
+  log_created: Log entry saved succesfully
+  delete: Delete
+  delete_confirm: Do you really want to delete this entry?
+  edit: Edit
+  
+  edituser: Your profile
+  name: Name
+  email: Email
+  password: Password
+  password_confirmation: Password confirmation
+  pass_min_length:
+    zero: No password required
+    one: At least one character
+    other: '%{count} characters required'
+  password_placeholder: (leave blank if you don't want to change)
+  current_password: Current password
+  phone: Phone number
+  home_municipality: Home municipality
+  update: Update
+  delete_account: Delete account
+  delete_account_btn: Delete my account
+  confirm: Are you sure?
+  delete_help:
+    You can remove your account by clicking on the button below. Please note that
+    deletion is immediate and permanent, and cannot be undone. When your account
+    is removed we also delete all your diary entries in the same time.
+
+  add_place_title: Add a new place
+  placename: Place name
+  chooseicon: Choose an icon
+  address: Address
+  address1: Street address
+  postalcode: Postal code
+  city: City
+  add_place: Add place
+  people_num: Total number of people usually in this place
+  person_names: Names of people in this place
+  place_created: Place added
+  place_updated: Place updated
+  place_deleted: Place deleted
+
+
+  import_ok: Log entries imported successfully
+  import_empty: File was successfully uploaded, but did not contain data we could use
+
+  accept_tos: I accept the <a target='_blank' href="https://pisarasi.fi/pisarasi-palvelun-ehdot/?lang=en">Terms and conditions</a> and <a target='_blank' href="https://pisarasi.fi/tietosuoja/?lang=en">Privacy policy</a>
+  tos_page: Terms of service and Privacy policy
+  tos_required: You need to accept Terms of service and Privacy policy before you can proceed further to this service.
+  tos_not_accepted: You need to accept Terms of service and Privacy policy
+  marketing_mails: I want to receive announcements from Pisarasi-service, e.g. information about new features. Note that we can still send you emails about policy changes even if you decline from announcements.
+  save: Save
+
+  account_already: Already have an account?
+  login: Log in here
+  no_account: Don't have an account?
+  signup: Sign up
+  forgot_pass: Forgot your password?
+  forgot_instructions: Send me reset password instructions
+  signin: Sign in
+
